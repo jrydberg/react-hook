@@ -212,6 +212,7 @@ export interface SpecialCodes {
   scrolllock: 145
   ';': 186
   '=': 187
+  '+': 187
   ',': 188
   '-': 189
   '.': 190
@@ -269,6 +270,7 @@ const CODES: SpecialCodes = {
   scrolllock: 145,
   ';': 186,
   '=': 187,
+  '+': 187,
   ',': 188,
   '-': 189,
   '.': 190,
